@@ -1,0 +1,3 @@
+TELEGRAM_TOKEN = "8558746721:AAHfNDaVNGicbxqUcNS7forBvI2JGvDWRaw"
+
+CHANNEL_ID = "@sazmanfazainasa"
